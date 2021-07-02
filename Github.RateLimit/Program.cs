@@ -38,7 +38,7 @@ namespace Github.RateLimit
                 var percentage = (float)responseRateLimit_Limit / 100 * 10;
 
                 if(percentage < responseRateLimit_Remaining)
-                 {
+                {
                     Console.WriteLine("below 10 %");
                 }
                 
