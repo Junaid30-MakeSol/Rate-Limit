@@ -9,7 +9,7 @@ COPY ["Github.RateLimit/Github.RateLimit.csproj", "Github.RateLimit/"]
 RUN dotnet restore "Github.RateLimit/Github.RateLimit.csproj"
 COPY . .
 WORKDIR "/src/Github.RateLimit"
-RUN dotnet build "Github.RateLimit.csproj" -c Release -o /app/build
+RUN dotnet build "Github.RateLimit.csproj" 
 
 FROM build AS publish
 RUN dotnet publish "Github.RateLimit.csproj" -c Release -o /app/publish

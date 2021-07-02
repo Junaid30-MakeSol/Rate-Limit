@@ -5,10 +5,8 @@ using System.Linq;
 
 namespace Github.RateLimit
 {
-    class Program
+    public class Program
     {
-        public class RateLimit
-        {
             public static void Main(string[] args)
             {
                 Task.WaitAll(ExecuteAsync());
@@ -43,7 +41,7 @@ namespace Github.RateLimit
                 }
                 
             }
-        }
+        
     }
 
 }
