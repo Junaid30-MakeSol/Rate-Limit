@@ -1,0 +1,13 @@
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\obj\Debug\netcoreapp3.1\Github.RateLimit.csprojAssemblyReference.cache
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\obj\Debug\netcoreapp3.1\Github.RateLimit.AssemblyInfoInputs.cache
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\obj\Debug\netcoreapp3.1\Github.RateLimit.AssemblyInfo.cs
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\obj\Debug\netcoreapp3.1\Github.RateLimit.csproj.CoreCompileInputs.cache
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\bin\Debug\netcoreapp3.1\Github.RateLimit.exe
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\bin\Debug\netcoreapp3.1\Github.RateLimit.deps.json
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\bin\Debug\netcoreapp3.1\Github.RateLimit.runtimeconfig.json
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\bin\Debug\netcoreapp3.1\Github.RateLimit.runtimeconfig.dev.json
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\bin\Debug\netcoreapp3.1\Github.RateLimit.dll
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\bin\Debug\netcoreapp3.1\Github.RateLimit.pdb
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\obj\Debug\netcoreapp3.1\Github.RateLimit.dll
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\obj\Debug\netcoreapp3.1\Github.RateLimit.pdb
+C:\Users\hassaan.ilyas\source\repos\Github.RateLimit\Github.RateLimit\obj\Debug\netcoreapp3.1\Github.RateLimit.genruntimeconfig.cache

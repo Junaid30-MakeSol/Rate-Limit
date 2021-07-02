@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Github.RateLimit": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
